@@ -1,8 +1,8 @@
 # Домашнее задание к занятию "3.Обработка событий"
 
-![CI](https://github.com/DevvIlya/ahj-homeworks-events/actions/workflows/web.yml/badge.svg)
+![CI](https://github.com/Youzya/ahj-homeworks-events/actions/workflows/web.yml/badge.svg)
 
-[Ссылка на решение](https://devvilya.github.io/ahj-homeworks-events/)
+[Ссылка на решение](https://youzya.github.io/ahj-homeworks-events/)
 
 Правила сдачи задания:
 
